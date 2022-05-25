@@ -1,0 +1,16 @@
+# ninja log v5
+6	385	6749368817141030	build.ninja	3a9c6dac77ed5f0
+12	1337	6750407373662402	CMakeFiles/OrgChart.dir/main.cpp.obj	e0aae76e9a217629
+1236	1431	6750408469723314	OrgChart.exe	9a72c6859a190ece
+3	1235	6750408467707964	CMakeFiles/OrgChart.dir/OrgChart.cpp.obj	733d5e94e57dcdfb
+4	2447	6750412057708014	CMakeFiles/OrgChart.dir/OrgChart.cpp.obj	733d5e94e57dcdfb
+2447	3061	6750412063744676	OrgChart.exe	9a72c6859a190ece
+5	1793	6750412253833384	CMakeFiles/OrgChart.dir/OrgChart.cpp.obj	733d5e94e57dcdfb
+1794	1992	6750412255799872	OrgChart.exe	9a72c6859a190ece
+272	5942	6750753115378126	CMakeFiles/OrgChart.dir/main.cpp.obj	e0aae76e9a217629
+26	6298	6750753119542519	CMakeFiles/OrgChart.dir/OrgChart.cpp.obj	733d5e94e57dcdfb
+6298	6715	6750753123640500	OrgChart.exe	9a72c6859a190ece
+6	1579	6751044127836707	CMakeFiles/OrgChart.dir/main.cpp.obj	e0aae76e9a217629
+73	1355	6751672840710244	CMakeFiles/OrgChart.dir/main.cpp.obj	e0aae76e9a217629
+15	1376	6751672840933650	CMakeFiles/OrgChart.dir/OrgChart.cpp.obj	733d5e94e57dcdfb
+1376	1922	6751672846370116	OrgChart.exe	9a72c6859a190ece

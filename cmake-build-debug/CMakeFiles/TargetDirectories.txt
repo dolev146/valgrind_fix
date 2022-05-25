@@ -1,0 +1,3 @@
+C:/Users/Dolev_Lenovo/CLionProjects/OrgChart/cmake-build-debug/CMakeFiles/OrgChart.dir
+C:/Users/Dolev_Lenovo/CLionProjects/OrgChart/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dolev_Lenovo/CLionProjects/OrgChart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
